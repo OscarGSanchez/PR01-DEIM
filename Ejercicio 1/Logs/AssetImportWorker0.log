@@ -142,3 +142,144 @@ System memory in use after: 57.2 MB.
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1570.
 Total: 1.402300 ms (FindLiveObjects: 0.165100 ms CreateObjectMapping: 0.027800 ms MarkObjects: 1.172000 ms  DeleteObjects: 0.036600 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 318.877260 seconds.
+  path: Assets/Scripts/Ejercicio4.cs
+  artifactKey: Guid(bf6cc4cb0dbcea1468254556753bf87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Ejercicio4.cs using Guid(bf6cc4cb0dbcea1468254556753bf87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a5ff11bd84c7d319cd8402a90cf8beb') in 0.006820 seconds
+  Import took 0.008610 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000416 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.671 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1118 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.1 MB.
+System memory in use after: 57.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1574.
+Total: 1.349300 ms (FindLiveObjects: 0.119800 ms CreateObjectMapping: 0.034600 ms MarkObjects: 1.159000 ms  DeleteObjects: 0.034900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.017560 seconds.
+  path: Assets/Scripts/Ejercicio3a.cs
+  artifactKey: Guid(dabcb551bc8313342b70733d4453cb38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Ejercicio3a.cs using Guid(dabcb551bc8313342b70733d4453cb38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d026a567e40aa1c0f755edad695b493') in 0.003499 seconds
+  Import took 0.005139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000435 seconds.
+  path: Assets/Scripts/Ejercicio3a.cs
+  artifactKey: Guid(dabcb551bc8313342b70733d4453cb38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Ejercicio3a.cs using Guid(dabcb551bc8313342b70733d4453cb38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d026a567e40aa1c0f755edad695b493') in 0.001765 seconds
+  Import took 0.003231 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000563 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.695 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1118 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1577.
+Total: 1.387700 ms (FindLiveObjects: 0.126400 ms CreateObjectMapping: 0.028500 ms MarkObjects: 1.189300 ms  DeleteObjects: 0.042500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 788.102624 seconds.
+  path: Assets/Scripts/Ejercicio4.cs
+  artifactKey: Guid(bf6cc4cb0dbcea1468254556753bf87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Ejercicio4.cs using Guid(bf6cc4cb0dbcea1468254556753bf87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c69faa39b1e9d6c69c2f69d5e6ad829') in 0.003312 seconds
+  Import took 0.004853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.098156 seconds.
+  path: Assets/Scripts/Ejercicio4a.cs
+  artifactKey: Guid(bf6cc4cb0dbcea1468254556753bf87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Ejercicio4a.cs using Guid(bf6cc4cb0dbcea1468254556753bf87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb1aeabfb486ee0711c33eb19c5ffd40') in 0.004780 seconds
+  Import took 0.006421 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000475 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.655 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1118 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1580.
+Total: 1.513000 ms (FindLiveObjects: 0.114200 ms CreateObjectMapping: 0.030200 ms MarkObjects: 1.332000 ms  DeleteObjects: 0.036100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.274523 seconds.
+  path: Assets/Scripts/Ejercicio4b.cs
+  artifactKey: Guid(652ba15fbde0d1944935ca886ea045b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Ejercicio4b.cs using Guid(652ba15fbde0d1944935ca886ea045b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9974e498e951ded3b9c17c46e9a2323') in 0.006388 seconds
+  Import took 0.008056 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000413 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.646 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1584.
+Total: 1.381900 ms (FindLiveObjects: 0.138000 ms CreateObjectMapping: 0.043200 ms MarkObjects: 1.165400 ms  DeleteObjects: 0.034600 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
