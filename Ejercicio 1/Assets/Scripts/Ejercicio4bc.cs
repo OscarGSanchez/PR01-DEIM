@@ -24,5 +24,6 @@ public class Ejercicio4bc : MonoBehaviour
         despy = Input.GetAxis("Vertical");
         transform.Translate(Vector3.up * despy * speed * Time.deltaTime);
 
+
     }
 }
